@@ -180,4 +180,3 @@ See `TEMPLATE_FORMAT_SPEC.md` for complete specification.
 
 ## 📄 License
 MIT
-# LegalDocAI
