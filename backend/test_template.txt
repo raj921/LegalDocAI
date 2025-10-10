@@ -1,0 +1,39 @@
+NOTICE TO INSURANCE COMPANY
+
+Date: [DATE]
+Policy Number: [POLICY_NUMBER]
+Claim Number: [CLAIM_NUMBER]
+
+To: [INSURANCE_COMPANY_NAME]
+    [INSURANCE_COMPANY_ADDRESS]
+
+Dear Claims Adjuster,
+
+Re: Notice of Insurance Claim - Policy #[POLICY_NUMBER]
+
+I am writing to notify you of a claim under the above-referenced insurance policy. 
+
+Incident Details:
+- Date of Loss: [DATE_OF_LOSS]
+- Location: [LOCATION_OF_INCIDENT]
+- Description: [INCIDENT_DESCRIPTION]
+
+The claimant, [CLAIMANT_NAME], sustained [TYPE_OF_DAMAGE] as a result of [CAUSE_OF_LOSS].
+
+Estimated Loss Amount: $[ESTIMATED_AMOUNT]
+
+Please acknowledge receipt of this notice and provide your claim reference number. I request that you investigate this matter promptly and advise of your coverage determination within [RESPONSE_DAYS] days.
+
+All correspondence should be directed to:
+[CLAIMANT_NAME]
+[CLAIMANT_ADDRESS]
+[CLAIMANT_PHONE]
+[CLAIMANT_EMAIL]
+
+Thank you for your attention to this matter.
+
+Sincerely,
+
+[CLAIMANT_SIGNATURE]
+[CLAIMANT_NAME]
+[DATE]
