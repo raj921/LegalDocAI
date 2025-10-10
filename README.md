@@ -1,4 +1,4 @@
-# Legal Template Assistant
+# Legal Doc Ai
 
 AI-powered legal document generation and management system.
 
